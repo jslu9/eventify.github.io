@@ -1,18 +1,21 @@
 {
-  "users" : [
+  "followers" : [
     {
       "name" : "justin",
-      "name" : "lujust",
+      "username" : "lujust",
+      "role": "basic",
       "id" : "1"
     },
     {
       "name" : "jason",
-      "name" : "jason1",
+      "username" : "jason1",
+      "role": "basic",
       "id" : "2"
     },
     {
       "name" : "prakriti",
-      "name" : "tian",
+      "username" : "tian",
+      "role": "basic",
       "id" : "3"
     }
   ]
