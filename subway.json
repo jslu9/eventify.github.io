@@ -1,0 +1,16 @@
+{
+  "stations" : [
+    {
+      "stationName" : "Wittenbergplatz",
+      "buildYear" : "1912"
+    },
+    {
+      "stationName" : "Spichernstrasse",
+      "buildYear" : "1959"
+    },
+    {
+      "stationName" : "Weberwiese",
+      "buildYear" : "1930"
+    }
+  ]
+}
